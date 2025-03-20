@@ -12,3 +12,4 @@ imagehash
 imgaug
 requests
 ftfy
+evaluate
